@@ -1,0 +1,14 @@
+:root{
+    --col1:rgb(245, 231, 139);
+    --col1:rgb(247, 196, 241);
+}
+.box1{
+    height: 200px;
+    width: 200px;
+    background-color: rgb(191, 255, 127);
+}
+.box2{
+    height: 200px;
+    width: 200px;
+    background-color:rgb(191, 227, 247)
+}
