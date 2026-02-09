@@ -5,11 +5,14 @@
     --col3: rgb(221, 247, 196);
     --col4: rgb(196, 232, 247);
     --col5: rgb(247, 196, 196);
+    --col6: rgb(167, 143, 220);
+    --col7: rgb(217, 168, 208);
 }
 
 body 
 {
     display: flex;
+    flex:0vh;
     align-items: center;
     justify-content: center;
     height: 100vh;
@@ -52,5 +55,19 @@ div{
     height: 200px;
     width: 200px;
     background-color: var(--col5);
+}
+.box6 
+{
+    font-size: 20px;
+    height: 200px;
+    width: 200px;
+    background-color: var(--col6);
+}
+.box7 
+{
+    font-size: 20px;
+    height: 200px;
+    width: 200px;
+    background-color: var(--col7);
 }
 

@@ -1,0 +1,9 @@
+body{
+    background-color: antiquewhite;
+}
+@media screen and (max-width:80px)
+{
+    body{
+    background-color:rgb(165, 207, 231);}
+
+}
