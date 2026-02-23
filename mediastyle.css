@@ -7,3 +7,9 @@ body{
     background-color:rgb(165, 207, 231);}
 
 }
+@media screen and (min-width:480px)
+{
+    body{
+    background-color:rgb(218, 165, 231);}
+
+}
